@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-04.draft2",
+  "version": "2026-11-04.draft3",
   "title": "The FRANK Standard — UAE Off-Plan Advisory Qualification",
   "status": "substantive-draft-for-expert-review",
   "disclaimer": "Training content. Not DLD/RERA accreditation, investment advice, legal advice or confirmation of a project's status. Verify current processes and documents with the applicable authority and transaction parties.",
@@ -320,8 +320,8 @@
       ],
       "sources": [
         {
-          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide",
-          "url": "https://dubailand.gov.ae/media/i31iv1n0/real-estate-brokerage-practice-guide_en.pdf",
+          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide 2024",
+          "url": "https://dubailand.gov.ae/en/about-dubai-land-department/real-estate-brokerage-practice-guide-2024/",
           "reviewedDate": "2026-11-04"
         },
         {
@@ -549,8 +549,8 @@
           "reviewedDate": "2026-11-04"
         },
         {
-          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide",
-          "url": "https://dubailand.gov.ae/media/i31iv1n0/real-estate-brokerage-practice-guide_en.pdf",
+          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide 2024",
+          "url": "https://dubailand.gov.ae/en/about-dubai-land-department/real-estate-brokerage-practice-guide-2024/",
           "reviewedDate": "2026-11-04"
         }
       ],
@@ -600,8 +600,8 @@
       ],
       "sources": [
         {
-          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide",
-          "url": "https://dubailand.gov.ae/media/i31iv1n0/real-estate-brokerage-practice-guide_en.pdf",
+          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide 2024",
+          "url": "https://dubailand.gov.ae/en/about-dubai-land-department/real-estate-brokerage-practice-guide-2024/",
           "reviewedDate": "2026-11-04"
         },
         {
@@ -633,5 +633,6 @@
         }
       ]
     }
-  ]
+  ],
+  "sourceStatus": "DLD source-link correction verified; expert content review still pending"
 }
