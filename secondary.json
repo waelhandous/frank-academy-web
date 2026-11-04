@@ -1,0 +1,233 @@
+{
+  "version": "2026-11-04.draft1",
+  "title": "The FRANK Standard — Dubai Secondary Market",
+  "status": "substantive-draft-for-expert-review",
+  "disclaimer": "Educational only; confirm current Dubai Land Department procedures and contract terms. Not accredited training.",
+  "learningPolicy": {
+    "minRequiredScore": 85,
+    "certificationAvailable": false
+  },
+  "chapters": [
+    {
+      "id": "01",
+      "title": "Resale Authority, Title and Listing Mandates",
+      "time": 45,
+      "outcomes": [
+        "Verify legal ownership and listing authority",
+        "Record exact property identity and restrictions",
+        "Recognize conflicts and consent failures"
+      ],
+      "sources": [
+        {
+          "title": "DLD Property Sale Registration",
+          "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration/",
+          "reviewedDate": "2026-11-04"
+        }
+      ],
+      "sections": [
+        [
+          "Authority before marketing",
+          "Confirm the identity of the registered seller and the legal authority of anyone instructing the transaction. A friend with keys or a property manager is not automatically authorized to sell. Verify title and any relevant power of attorney through approved channels. Before making a promise, record which person has authority to accept an offer and sign each required document."
+        ],
+        [
+          "A precise unit identity",
+          "Document the correct building, unit, title details, registered area, parking rights, known mortgage, tenancy and relevant restrictions. Reconcile differences between listing descriptions and title evidence. If marketing says vacant but current tenancy records suggest occupancy, pause and verify; the inconsistency may change the value and the completion obligations."
+        ],
+        [
+          "Mandate discipline",
+          "Set out seller asking price, target, marketing authorization, exclusivity, commission treatment, access rights, privacy rules, negotiation authority and reporting cadence in writing. Verify any advertising permit requirements for the listing. Never treat a generic permission from one person as authorization for an entire building or portfolio."
+        ],
+        [
+          "Case exercise",
+          "A seller's brother offers to sign the sale documents and says the owner is overseas. Ask for ownership evidence, an appropriately valid power of attorney and the exact transaction authority. Identify what must be confirmed by the relevant authority or qualified legal adviser rather than assuming family status is sufficient."
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "Who can authorize a property listing for resale?",
+          "options": [
+            "Anyone holding the keys",
+            "The registered owner or appropriately authorized representative",
+            "Any existing tenant"
+          ],
+          "correct": 1,
+          "why": "Verify ownership and authority before marketing or negotiating."
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Comparables, Valuation and Pricing Strategy",
+      "time": 55,
+      "outcomes": [
+        "Use credible comparable transactions",
+        "Normalize area and property condition",
+        "Build a transparent pricing recommendation"
+      ],
+      "sections": [
+        [
+          "Transaction evidence",
+          "A listing is a seller's asking price, not an executed market transaction. Use verified comparable sales, clearly dated, and distinguish completed transfers from advertisements. Prioritize same building or directly comparable communities, similar units, tenure, area, view, floor, condition, furnishings and tenancy status."
+        ],
+        [
+          "Comparable adjustments",
+          "A newly renovated high-floor apartment with an open view should not automatically set the value of a low-floor tenanted unit. Record adjustments transparently and highlight small sample sizes. Calculate price per square foot using consistent registered area definitions and explain exclusions rather than cherry-picking an extreme transaction."
+        ],
+        [
+          "Negotiation range",
+          "Prepare an asking-position rationale, defensible target range, buyer objections, concession limits and possible non-price trades such as transfer timing or furnishings. Unverified competing offers are not a negotiation technique. The broker's task is to establish credible expectations, not manufacture urgency."
+        ],
+        [
+          "Case exercise",
+          "Three comparable sales are AED 1.72m, AED 1.81m and AED 2.04m, but the highest is renovated with a superior view. Explain which data needs adjustment before calculating a recommended range. Avoid simply averaging all three into an apparently precise figure."
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "What is the strongest starting point for a resale price recommendation?",
+          "options": [
+            "The most expensive online listing",
+            "Current verified comparable transactions with adjustments",
+            "A future off-plan launch price"
+          ],
+          "correct": 1,
+          "why": "Executed comparables are more defensible when matched for relevant differences."
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Mortgaged Resales and Funding Shortfalls",
+      "time": 55,
+      "outcomes": [
+        "Identify seller bank settlement dependencies",
+        "Explain valuation gaps",
+        "Design transaction conditions without promising transfer"
+      ],
+      "sources": [
+        {
+          "title": "DLD Registering Sale of Mortgaged Property",
+          "url": "https://dubailand.gov.ae/en/eservices/registering-the-sale-of-a-mortgaged-property",
+          "reviewedDate": "2026-11-04"
+        }
+      ],
+      "sections": [
+        [
+          "Mortgage release",
+          "A seller's mortgage affects the transfer sequence. Determine the lender, settlement amount, bank paperwork and process needed for release. Dubai Land Department provides a dedicated process concerning sale of mortgaged property. The buyer's readiness to pay a deposit does not mean the title can be transferred tomorrow."
+        ],
+        [
+          "Buyer finance",
+          "Mortgage preapproval is conditional and may depend on property valuation, debt profile, documentary checks and bank approval. Suppose sale price is AED 2m but valuation is AED 1.75m. Financing may use valuation rather than asking price. Calculate the resulting cash requirement from the bank's actual terms before reassuring the buyer."
+        ],
+        [
+          "Funds control",
+          "Make a documented funds-flow plan showing who pays each amount, to whom, at what milestone, and under which instruction. Avoid handling client money without proper authority. Define bank-release, developer-NOC, buyer financing, trustee and seller-proceeds dependencies separately."
+        ],
+        [
+          "Case exercise",
+          "The seller has a mortgage, buyer financing is pending valuation, and the seller asks you to promise transfer in five days. Identify every missing dependency, the responsible party and the minimum evidence required before communicating a realistic timetable."
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "What should happen before promising a transfer date for a mortgaged property?",
+          "options": [
+            "Nothing; buyer has paid a deposit",
+            "Verify settlement, bank clearance and other transfer dependencies",
+            "Assume the lender will cooperate instantly"
+          ],
+          "correct": 1,
+          "why": "Bank and registry dependencies must be reconciled first."
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Offer Terms, Documentation and Deal Control",
+      "time": 50,
+      "outcomes": [
+        "Build an auditable offer",
+        "Recognize incomplete commercial conditions",
+        "Avoid common dispute triggers"
+      ],
+      "sections": [
+        [
+          "Offer structure",
+          "Record buyer and seller identity, exact unit, agreed price, deposit and holder, finance condition, known mortgage, fixtures and furnishings, tenancy, intended transfer date, NOC, costs and agreed treatment of default. Use the approved current forms and obtain legal review where terms are contested."
+        ],
+        [
+          "Consistency check",
+          "Reconcile ownership, unit number, area and commercial obligations across title documents, listing, mandate, offer and sale agreement. Even a small unit-identification discrepancy can create major operational delays. Preserve versions, timestamps and written party confirmations."
+        ],
+        [
+          "Deposit clarity",
+          "The deposit is not automatically refundable or nonrefundable. Explain the written conditions, authorized custodian, triggers and the consequences if financing fails or another condition is not met. Never substitute a broker's informal assurance for the parties' signed agreement."
+        ],
+        [
+          "Case exercise",
+          "The buyer believes the furniture is included, the seller says it is excluded and the written offer is silent. Draft the questions and evidence necessary to resolve the issue before signatures and identify where the agreed answer must be documented."
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "What is the strongest way to avoid a furniture dispute?",
+          "options": [
+            "Assume all furniture is included",
+            "Record an agreed fixtures/furnishing schedule in the transaction terms",
+            "Leave the issue to transfer day"
+          ],
+          "correct": 1,
+          "why": "Material non-price terms should be explicit and agreed."
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "DLD Transfer, Handover and Professional Closure",
+      "time": 60,
+      "outcomes": [
+        "Follow official sale registration guidance",
+        "Check transfer readiness",
+        "Document final handover and records"
+      ],
+      "sources": [
+        {
+          "title": "DLD Property Sale Registration",
+          "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration/",
+          "reviewedDate": "2026-11-04"
+        }
+      ],
+      "sections": [
+        [
+          "Official registration",
+          "DLD's property sale registration guidance identifies trustee submission, buyer/seller identification, relevant developer e-NOC requirements, payment of official charges and delivery of ownership documents. Check the current service information and specific transaction before advising parties on fees or timeline."
+        ],
+        [
+          "Transfer-ready checklist",
+          "Confirm mortgage release or settlement arrangements, applicable NOC, identity and authority, correct contract, available payment instruments, fees, service charges and actual trustee appointment. Separate 'ready for scheduling' from 'accepted and completed by the authority'."
+        ],
+        [
+          "Physical handover",
+          "Record keys, building and parking access, utilities, repairs, appliances, property condition, management details and agreed possessions. For tenanted property, identify continuing obligations and what information can be transferred lawfully."
+        ],
+        [
+          "Case exercise",
+          "A buyer completes the trustee transfer but discovers a missing parking remote and disputed outstanding service charges. Explain the pre-transfer checklist that should have identified these issues, and how to document a practical resolution without inventing an entitlement."
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "What confirms completion of legal ownership transfer?",
+          "options": [
+            "Agent's verbal confirmation",
+            "Official DLD registration output",
+            "Booking receipt alone"
+          ],
+          "correct": 1,
+          "why": "The official registration process establishes the transaction's registered outcome."
+        }
+      ]
+    }
+  ]
+}
