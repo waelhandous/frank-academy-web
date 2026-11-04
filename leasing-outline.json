@@ -1,0 +1,53 @@
+{
+  "track": "leasing",
+  "title": "The FRANK Standard — Dubai Leasing & Property Management",
+  "access": "existing-frank-paid-member-auth-only",
+  "publication": "draft-awaiting-expert-review",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "Landlord Instructions, Leasing Authority and Property Readiness",
+      "outcomes": [
+        "Verify lawful leasing authority",
+        "Document a property's operational readiness",
+        "Establish clear rental mandate and service scope"
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Tenant Qualification, Offers and Fair Practice",
+      "outcomes": [
+        "Build objective tenant screening",
+        "Explain the full rent and fee commitment",
+        "Handle offers and deposits transparently"
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Tenancy Terms, Ejari and Registration Pathways",
+      "outcomes": [
+        "Explain official registration options",
+        "Identify documents and approvals",
+        "Avoid reliance on outdated Ejari fees or workflows"
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Handover, Maintenance, Rent Collection and Service Quality",
+      "outcomes": [
+        "Conduct a documented handover",
+        "Allocate responsibilities clearly",
+        "Prevent avoidable disputes over deposits and defects"
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Renewals, Rent Changes, Notices and Dispute Prevention",
+      "outcomes": [
+        "Plan tenancy renewal workflows",
+        "Differentiate official rent guidance from landlord preference",
+        "Recognize when legal advice or dispute resolution is necessary"
+      ]
+    }
+  ]
+}

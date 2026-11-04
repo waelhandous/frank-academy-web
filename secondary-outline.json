@@ -1,0 +1,53 @@
+{
+  "track": "secondary",
+  "title": "The FRANK Standard — Dubai Secondary Market",
+  "access": "existing-frank-paid-member-auth-only",
+  "publication": "draft-awaiting-expert-review",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "Resale Authority, Title and Listing Mandates",
+      "outcomes": [
+        "Verify legal ownership and listing authority",
+        "Record exact property identity and restrictions",
+        "Recognize conflicts and consent failures"
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Comparables, Valuation and Pricing Strategy",
+      "outcomes": [
+        "Use credible comparable transactions",
+        "Normalize area and property condition",
+        "Build a transparent pricing recommendation"
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Mortgaged Resales and Funding Shortfalls",
+      "outcomes": [
+        "Identify seller bank settlement dependencies",
+        "Explain valuation gaps",
+        "Design transaction conditions without promising transfer"
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Offer Terms, Documentation and Deal Control",
+      "outcomes": [
+        "Build an auditable offer",
+        "Recognize incomplete commercial conditions",
+        "Avoid common dispute triggers"
+      ]
+    },
+    {
+      "id": "05",
+      "title": "DLD Transfer, Handover and Professional Closure",
+      "outcomes": [
+        "Follow official sale registration guidance",
+        "Check transfer readiness",
+        "Document final handover and records"
+      ]
+    }
+  ]
+}
