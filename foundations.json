@@ -1,12 +1,12 @@
 {
-  "version": "2026-11-04.draft1",
+  "version": "2026-11-04.draft2",
   "title": "The FRANK Standard — UAE Off-Plan Advisory Qualification",
   "status": "substantive-draft-for-expert-review",
   "disclaimer": "Training content. Not DLD/RERA accreditation, investment advice, legal advice or confirmation of a project's status. Verify current processes and documents with the applicable authority and transaction parties.",
   "learningPolicy": {
     "minRequiredScore": 85,
     "certificationAvailable": false,
-    "questionPolicy": "Practice checks only; never treated as formal examination."
+    "questionPolicy": "Developmental chapter questions only; the final examination is not academically approved."
   },
   "chapters": [
     {
@@ -289,113 +289,347 @@
     },
     {
       "id": "07",
-      "title": "Secondary Sale and Mortgage Dependencies",
-      "time": 45,
+      "title": "Advanced Buyer Discovery, Liquidity and Suitability",
+      "time": 50,
       "outcomes": [
-        "Identify mortgage and title blockers",
-        "Know when a developer NOC is required",
-        "Understand the difference between agreeing terms and completing a transfer"
-      ],
-      "sources": [
-        {
-          "title": "DLD Property Sale Registration",
-          "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration/",
-          "reviewedDate": "2026-11-04"
-        },
-        {
-          "title": "DLD Sale of a Mortgaged Property",
-          "url": "https://dubailand.gov.ae/en/eservices/registering-the-sale-of-a-mortgaged-property",
-          "reviewedDate": "2026-11-04"
-        }
+        "Translate a buyer interview into a documented purchase mandate",
+        "Model all-in cash availability against contract due dates and contingency",
+        "Identify when to defer a recommendation or refer a question to a specialist"
       ],
       "sections": [
         [
-          "The existing mortgage",
-          "A seller's existing mortgage is a transaction dependency. Confirm lender settlement process, required bank documents, timing and who pays what; never promise a transfer date solely from the buyer's readiness. DLD maintains a specific process for registering a sale of a mortgaged property to help manage bank repayment and subsequent mortgage release."
+          "Discover before you recommend",
+          "Run the interview as a decision process, not an opportunity to pitch. Clarify use case (end-use, income or capital preservation), decision makers, actual source and availability of funds, acceptable construction risk, holding period, financing dependencies, resale needs and the amount of loss or delay the buyer can tolerate. Ask about competing commitments in neutral terms: money allocated to family expenses, operations, debt servicing or another purchase is not automatically available for an off-plan instalment. Record facts, client estimates and broker assumptions separately. Repeat the mandate in the buyer's words and invite corrections before searching inventory."
         ],
         [
-          "Seller authority and title",
-          "Identify the registered owner and whether an authorized legal representative acts under a valid power of attorney. Verify the unit's title, restrictions, occupancy or tenancies and any developer NOC requirement. Avoid accepting a mere photocopy as final proof when current official verification is possible."
+          "All-in liquidity schedule",
+          "A price cap and a cash budget are not interchangeable. For each shortlisted property, prepare a dated schedule of reservation sums, contractual instalments, separately verified authority charges, lender expenses where applicable, potential furnishing needs and ongoing holding costs. Show the client's opening liquid funds, other forecast inflows, committed outflows and a reserve chosen by the client. Calculate the lowest projected available cash balance, not merely whether the first instalment can be paid. Every date should be anchored to the actual SPA or marked provisional if tied to a future construction event."
         ],
         [
-          "Offer discipline",
-          "An offer should clearly identify parties, unit, purchase price, deposit, financing conditions, settlement dependencies, proposed completion timeline, default triggers and exclusions. Escalate legal language as needed. A contract that disregards bank settlement or NOC timelines can create preventable disputes."
+          "Suitability includes time",
+          "An owner-occupier waiting for completion has accommodation costs and uncertain handover timing; an income buyer receives no rent before possession and readiness to lease. The investor's financing option may change before transfer. Create at least three scenarios: contract schedule, early cash demand and delayed completion. Distinguish cash-flow risk from expected capital appreciation. Do not take an affordability decision from a developer's advertised future price; property value and liquidity are not guaranteed."
         ],
         [
-          "Transfer and official fees",
-          "DLD's official property sale registration service describes trustee submission, identity verification, developer e-NOC in applicable areas, fees and title issuance. Check the current service page for the exact applicable fee and procedure on the day of the transaction."
+          "Client disclosure and written recommendation",
+          "Give a two-column note: evidence supporting the recommendation and unresolved risks. If unit size, tower identity, escrow status, actual fees or legal clauses are uncertain, mark them as requiring confirmation, even if doing so delays a deal. Explain conflicts of interest such as incentives that could bias your recommendation. A short written rationale—'fit, evidence, risk, next verification'—is easier for a client to rely on than a long brochure dump. Avoid collecting unnecessary sensitive information and protect retained financial documents."
         ],
         [
-          "Scenario: valuation shortfall",
-          "Buyer offers AED 2m but bank valuation supports only AED 1.75m. If mortgage lending depends on valuation, calculate the funding difference, discuss genuine liquidity, consider renegotiation or alternative financing, and avoid representing the bank as committed until formal approval."
+          "Practice: the AED 600,000 buyer",
+          "A hypothetical buyer has AED 600,000 in savings. AED 150,000 is committed to a business expansion, AED 100,000 is reserved for family liquidity, and they expect AED 15,000 monthly net savings. A AED 1.8 million unit needs 10% now and 30% six months later. The nominal first instalment is AED 180,000, but the six-month tranche is AED 540,000. Their apparent initial affordability does not establish capacity for both dates. Build a dated forecast; identify financing and liquidity assumptions, then propose a more suitable timing or lower commitment alternative."
         ]
+      ],
+      "sources": [
+        {
+          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide",
+          "url": "https://dubailand.gov.ae/media/i31iv1n0/real-estate-brokerage-practice-guide_en.pdf",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Frequently Asked Questions",
+          "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+          "reviewedDate": "2026-11-04"
+        }
       ],
       "quiz": [
         {
-          "q": "A resale seller has a mortgage. What is the first responsible action?",
+          "q": "A buyer can pay the reservation deposit but their six-month instalment would leave negative available cash. What should you do?",
           "options": [
-            "Schedule transfer tomorrow",
-            "Confirm bank settlement/release dependencies before promising transfer timing",
-            "Ignore mortgage because a deposit was paid"
+            "Describe the project as affordable because booking is paid",
+            "Document the shortfall, stress-test cash flow and propose alternatives",
+            "Assume capital appreciation will fund the instalment"
           ],
           "correct": 1,
-          "why": "Mortgage release and associated documents are transaction prerequisites."
+          "why": "Suitability is assessed against all dated obligations and reserves, not only entry cash."
         }
       ]
     },
     {
       "id": "08",
-      "title": "Leasing, Ejari and Tenant Experience",
-      "time": 45,
+      "title": "Escrow Accounts, Oqood and Project Registration",
+      "time": 55,
       "outcomes": [
-        "Explain official Ejari registration pathways",
-        "Separate tenancy documentation from brokerage promises",
-        "Identify renewal and service risks"
-      ],
-      "sources": [
-        {
-          "title": "DLD Register/Renew Ejari",
-          "url": "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
-          "reviewedDate": "2026-11-04"
-        },
-        {
-          "title": "DLD Ejari Services Campaign",
-          "url": "https://dubailand.gov.ae/en/eservices/campaign-for-ejari-services/",
-          "reviewedDate": "2026-11-04"
-        }
+        "Explain how Dubai off-plan project registration and escrow relate without confusing them",
+        "Verify the exact registered project before making a claim about purchaser protection",
+        "Identify what an advisor can verify and which facts need official confirmation"
       ],
       "sections": [
         [
-          "Tenancy essentials",
-          "Verify landlord authority, property identity, tenancy term, rent payment schedule, deposit conditions, permitted use, maintenance responsibility, renewal/notice provisions and handover condition. Explain every material term before signing. The broker should not invent a 'standard' right to evict or raise rent based on generic internet advice."
+          "What registration actually establishes",
+          "Dubai Land Department describes a formal process for developers to register real estate projects, involving a request through the Oqood portal, supporting documents, project survey and technical steps, an escrow-related process and issuance of approval documentation when accepted. Registration status is project-specific; a developer's general market presence does not establish that an individual launch or tower is duly registered. The broker must verify the current project and phase in the authority's appropriate service before giving an affirmative answer to a buyer."
         ],
         [
-          "Ejari registration",
-          "DLD's official channels include trustee centers and applicable digital services. Registration documents, eligibility and fees vary by channel; instruct students to consult current DLD service pages rather than memorizing outdated screenshots. Record the registration certificate and proper contract version in the transaction file."
+          "Escrow is a control, not a guarantee of outcome",
+          "DLD's FAQ explains that the project escrow account receives payments from purchasers of off-plan units and financiers, and is intended to regulate construction-related disbursements and purchaser protection. It does not prove an individual buyer cannot suffer delay, contractual default or loss. Do not call a project 'fully guaranteed' merely because an escrow account exists. Obtain the exact account and payee instructions through authorized documents and advise the buyer to reconcile them with their signed payment terms."
         ],
         [
-          "Rent comparison",
-          "An advertised rent is not the same as a signed lease amount. Distinguish available listings, new registered rental contracts, and renewals. Evaluate unit quality, furnishing, amenities, payment frequency, vacancy exposure and landlord preferences before advising a price."
+          "Developer versus project versus contract",
+          "Create a verification chain: licensed developer or registered project entity, exact project and phase, permitted marketing materials, registration status, specified unit and the contract in front of the buyer. Distinct phases with similar names require separate checks. An agent cannot substitute a photograph of a developer portal, a sales manager's WhatsApp message or a payment receipt for current official evidence. Record the date, method, reference and limitations of each verification."
         ],
         [
-          "Handover discipline",
-          "Use a dated inventory and condition report, meter/utility status, key access list, maintenance defects and photographic record where permitted. Allocate responsibility for follow-up issues. The handover inspection often determines whether a later deposit dispute is resolvable."
+          "Disputed or delayed registration",
+          "If the developer has not registered a buyer's contract as expected, do not promise that the broker can force acceptance. DLD lists a process to approach its relevant registration-assurance function with supporting documentation in cases of refusal or delay; exact steps should be confirmed from current official guidance. Preserve booking documents, payment receipts, correspondence and all named parties, then escalate to authorized developer staff or legal advisers. Do not disclose a buyer's documents outside permitted channels."
         ],
         [
-          "Renewal and dispute handling",
-          "Identify the applicable legal notice/renewal framework using current official guidance. Track critical dates and correspondence; never promise an immediate eviction or arbitrary rent change. Escalate contested legal interpretations to a qualified legal professional or relevant authority."
+          "Scenario: a developer changes bank details",
+          "A buyer receives a new payment instruction by messaging app for the next instalment. They are told it is urgent. Treat the new account as unverified. Validate the authorized account, exact project and payment reference independently through established developer and official channels, and do not instruct a transfer based on a forwarded image. Document the verification. If terms remain inconsistent, ask the buyer not to rely on the instruction until a responsible party resolves it."
         ]
+      ],
+      "sources": [
+        {
+          "title": "Dubai Land Department — Register Project",
+          "url": "https://dubailand.gov.ae/en/eservices/register-project/",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Frequently Asked Questions",
+          "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+          "reviewedDate": "2026-11-04"
+        }
       ],
       "quiz": [
         {
-          "q": "Which source should determine the current Ejari procedure?",
+          "q": "A project has an escrow account. What can you responsibly tell a buyer?",
           "options": [
-            "An old WhatsApp message",
-            "DLD's current official service instructions",
-            "A competitor broker's video"
+            "Completion and investment returns are guaranteed",
+            "Escrow is a prescribed purchaser-protection mechanism, but project and contractual risks remain",
+            "No further developer or phase verification is needed"
           ],
           "correct": 1,
-          "why": "DLD provides the official service procedures and fees, which may change."
+          "why": "Escrow serves a regulatory purpose; it is not a blanket investment or delivery guarantee."
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Master Developer, Subdeveloper and Contracting-Entity Due Diligence",
+      "time": 45,
+      "outcomes": [
+        "Distinguish brand, master developer, project developer and seller",
+        "Build a phase-accurate evidence chain for a unit",
+        "Identify contractual and operational dependencies when development roles differ"
+      ],
+      "sections": [
+        [
+          "Four names, four potential responsibilities",
+          "The master developer of a large district may provide infrastructure and community rules, while a different project developer builds a particular tower. A marketing brand, sales agency and property-selling legal entity can be different again. Ask who owns or controls the plot, which entity has registered the project, who signs the SPA, who receives payments and who is responsible for post-handover obligations. Do not present one well-known brand's past track record as proof about an unrelated contracting vehicle."
+        ],
+        [
+          "Prove project identity",
+          "For every proposed unit, record the registered project name, developer identity, tower, phase, plot or other official identifiers, current developer-approved document version and the unit reference. A family of similarly named towers may have different payment plans, ownership arrangements, service charges, delivery obligations or amenities. A document can be genuine yet irrelevant to the phase being sold. A confidence statement should identify what is proven and what is only asserted by a seller."
+        ],
+        [
+          "Infrastructure and amenities",
+          "A buyer may value a planned metro connection, mall, road, school, park or district amenity. Separate existing and operating amenities from under-construction, announced and speculative infrastructure. Confirm who is responsible for each part and whether any amenity is contractual or promotional. Do not imply a district master plan guarantees a specific completion date or that a shared amenity is reserved exclusively for one building."
+        ],
+        [
+          "Developer-quality comparison",
+          "Use evidence about delivery outcomes, contracted specifications, after-sales service, service-charge management and project-specific construction progress. A developer with multiple completed projects can still face different conditions at a new site. Weight current project risk more heavily than a brand score. Where information is conflicting, list the uncertainty instead of averaging incompatible sources."
+        ],
+        [
+          "Case: branded collection with two sellers",
+          "A buyer is offered a branded residence in a district controlled by a master developer. The sales brochure names Brand A, the sales form names Development B and the SPA draft names SPV C. Before booking, map the roles and verify the project and signing authority. Confirm which entity accepts funds, owns delivery obligations and handles defects and title registration. Explain the arrangement clearly without implying that any of the three parties guarantees the others' obligations."
+        ]
+      ],
+      "sources": [
+        {
+          "title": "Dubai Land Department — Register Project",
+          "url": "https://dubailand.gov.ae/en/eservices/register-project/",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Property Sale Registration",
+          "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration/",
+          "reviewedDate": "2026-11-04"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "Which entity primarily determines the buyer's contractual obligations?",
+          "options": [
+            "The most recognizable marketing brand",
+            "The entity identified in the applicable signed contract, subject to law and verified registrations",
+            "Whichever developer has the largest master plan"
+          ],
+          "correct": 1,
+          "why": "Commercial identity and obligations must be grounded in the specific transaction documents."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Verified Market Intelligence, Comparables and Recommendation Quality",
+      "time": 65,
+      "outcomes": [
+        "Choose comparable evidence at the correct building, project, phase and time grain",
+        "Distinguish achieved sale prices from asking prices and forecasts",
+        "Prepare reproducible downside scenarios instead of unsupported return promises"
+      ],
+      "sections": [
+        [
+          "What each dataset measures",
+          "An asking listing describes an advertised offer; a registered sale describes an executed transaction; a signed rental contract describes an agreement, not necessarily the next asking rent. Supply and inventory snapshots measure units available or marketed at a point in time. Do not add these into one metric. State currency, unit, property type, transaction period, size definition and data coverage. Avoid making an investment claim from a screenshot without its source and extraction date."
+        ],
+        [
+          "Build a defensible comparable set",
+          "Prefer same building or phase, similar unit type, registered size, view, floor, quality, condition, delivery status and transaction date. For off-plan resales, distinguish a developer's original launch price from current secondary transfers. Mark related-party or atypical transactions, incentives and payment terms that can distort effective price. A small sample should result in a wider confidence range, not false precision. Always distinguish completed deals from active marketing."
+        ],
+        [
+          "FRANK intelligence should remain source-aware",
+          "Use the existing FRANK canonical building identity and original data crosswalk when a building is represented across sales, rental and service-charge sources. Do not assume names from different sources refer to the same project or tower. FRANK Maps, the CRM and intelligence modules may provide useful data, but an instructor must never claim live access without an actual authorized data connection and visible provenance. If a dataset is stale, say so and cite the verification date."
+        ],
+        [
+          "Scenario and return calculations",
+          "For hypothetical sale price P and forecast annual gross rent R, gross yield on price is R/P. Net operating yield requires deducting vacancy, recurring service charges, maintenance and management; equity cash return needs acquisition fees and financing treatment. Estimate both the cost of delay and the cost of a rushed exit. Present optimistic, base and downside scenarios, and show how sensitive the result is to rent, vacancy, charges and sale liquidity. Do not transform an assumed future sale into a guaranteed ROI."
+        ],
+        [
+          "Exercise: three incomparable offers",
+          "A hypothetical buyer is choosing between a completed apartment, a new off-plan unit and an off-plan resale. The first offers rental evidence; the second provides only a developer launch table; the third has an assignment premium and a partially paid SPA. Do not rank by the three headline prices. Prepare a comparability table for registered price, remaining cash obligations, possession timing, service costs, resale constraints and missing evidence. State which option cannot yet be recommended."
+        ]
+      ],
+      "sources": [
+        {
+          "title": "Dubai Land Department — Frequently Asked Questions",
+          "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Property Sale Registration",
+          "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration/",
+          "reviewedDate": "2026-11-04"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "An advertised listing price and a DLD-recorded transfer price are:",
+          "options": [
+            "Interchangeable market observations",
+            "Different evidence types that must be labelled and compared carefully",
+            "Both guaranteed prices available to the buyer"
+          ],
+          "correct": 1,
+          "why": "Asks, actual transfers and forecasts represent different phenomena."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Construction Delays, Contract Variations, Cancellations and Client Care",
+      "time": 60,
+      "outcomes": [
+        "Respond responsibly when actual progress differs from marketing milestones",
+        "Manage notice and documentation risks without inventing legal rights",
+        "Create a disciplined after-sale escalation process"
+      ],
+      "sections": [
+        [
+          "Construction information hierarchy",
+          "Separate developer progress messages, dated photographic updates, independent site evidence and current official project-status information. Construction percentage does not translate automatically into a contractual completion date. Confirm the date and method of every progress report. When the schedule changes, look for the written SPA terms that govern notices, extensions, force majeure, specification changes and handover definitions, and flag disputed interpretation for a qualified legal professional."
+        ],
+        [
+          "Communicate a delay before it becomes a dispute",
+          "Maintain a written chronology of the buyer's SPA, paid installments, milestones, developer notices, relevant changes and escalation contacts. Distinguish verified facts from forecasts and promises. A client should understand which payments are actually due, whether any invoice has a disputed basis, and what actions require their lawyer or financing bank. Avoid promising compensation, cancellation or refunds without reading the binding terms and applicable law."
+        ],
+        [
+          "Material specification or layout change",
+          "If a developer proposes a substitute unit, changed layout, area, balcony or amenity, compare the documented original and revised specifications. Ask whether an official amendment or registration step is required, and who is authorized to sign it. Do not accept a sales-team reassurance as a substitute for the agreement or present a different tower as an equivalent unit without the buyer's informed consent."
+        ],
+        [
+          "Cancellations and transfer rights",
+          "Buyer exit options can depend on the SPA, payment status, developer consent, registration stage and applicable rules. Do not generalize a refund percentage from unrelated cases or treat a marketing FAQ as binding. Preserve the original documents, request written developer guidance and refer contested rights to a qualified legal professional or authority. The advisor's responsibility is to surface options and evidence, not determine litigation outcomes."
+        ],
+        [
+          "Case: 10-month delay with conflicting notices",
+          "A buyer expects handover in June. A developer email says September, a social post says December, and an agent claims the delay triggers an automatic 15% refund. Separate source credibility and contractual entitlement. Obtain the applicable SPA clause, formal developer notice and current official progress record. Build a financial stress test for additional rent, finance costs and the next cash obligation. Write a neutral client update with the uncertainty and escalation steps."
+        ]
+      ],
+      "sources": [
+        {
+          "title": "Dubai Land Department — Frequently Asked Questions",
+          "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide",
+          "url": "https://dubailand.gov.ae/media/i31iv1n0/real-estate-brokerage-practice-guide_en.pdf",
+          "reviewedDate": "2026-11-04"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "A client asks whether a handover delay automatically entitles them to a fixed refund. Best response?",
+          "options": [
+            "Promise a percentage from another developer's case",
+            "Verify the applicable SPA, formal notices and governing rules, then escalate disputed rights",
+            "Tell them every off-plan SPA has the same remedy"
+          ],
+          "correct": 1,
+          "why": "Relief depends on contract and law; a broker must not invent remedies."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Capstone: Three Buyer Mandates and a Defensible Advisory Memorandum",
+      "time": 90,
+      "outcomes": [
+        "Build a reasoned comparative advisory memo for three different buyers",
+        "Calculate dated cash-flow, operating and exit sensitivities",
+        "Make an evidence-based recommendation, including when not to transact"
+      ],
+      "sections": [
+        [
+          "Mandate A: family seeking occupation",
+          "A hypothetical relocating family wants a three-bedroom home close to schools within 30 months. They can commit AED 450,000 now and save AED 24,000 monthly but must retain a six-month living reserve and rent accommodation until handover. Compare a completed home with an off-plan property, showing rental carry, purchase cash dates and the risk of delay. Do not recommend the off-plan option merely because the first instalment is lower."
+        ],
+        [
+          "Mandate B: income investor",
+          "A hypothetical investor has AED 2 million liquid funds and seeks recurring rental cash flow within six months. Project B is off-plan and may complete years later; Project C is ready but has service charges, possible vacancy and re-letting costs. Prepare a net-operating-income sensitivity for C and explain why projecting rental income for unfinished B requires a different timing model. Separate gross yield, financing cash return and speculative future appreciation."
+        ],
+        [
+          "Mandate C: risk-conscious international buyer",
+          "An overseas buyer wants diversification but cannot travel frequently and may need to exit within 36 months. Examine title and entity verification, agent authority, permitted foreign ownership where applicable, KYC documents, remote execution controls, payment account authenticity and transfer or resale conditions. Explain who can act on the buyer's behalf and what approvals are needed. Identify uncertainty about tax or cross-border rules for advice from relevant professionals rather than guessing."
+        ],
+        [
+          "Build the investment-advisory memorandum",
+          "The deliverable should include one page for each mandate: objective, hard constraints, current funds and reserves, dated payment schedule, official project/developer verification, comparable evidence, operating assumptions, three downside scenarios, contractual risks, conflicting information, recommended option or defer decision, and a concise disclosure statement. Every numerical claim needs an input and source date; every forecast needs assumptions. Keep commercial detail legible enough for a buyer to challenge."
+        ],
+        [
+          "Oral defense and independent assessment",
+          "For each case, the learner must explain why the recommendation is suitable and what evidence might reverse it. A skeptical client should probe a weak assumption, unexpected milestone or delay. The final defense should distinguish measured facts from marketing statements and show how the adviser would handle an unresolved contract issue. An AI tutor may critique the draft and practice objections, but course passing and certificate issuance require the separate formal assessment and integrity checks."
+        ]
+      ],
+      "sources": [
+        {
+          "title": "Dubai Land Department — Real Estate Brokerage Practice Guide",
+          "url": "https://dubailand.gov.ae/media/i31iv1n0/real-estate-brokerage-practice-guide_en.pdf",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Register Project",
+          "url": "https://dubailand.gov.ae/en/eservices/register-project/",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Property Sale Registration",
+          "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration/",
+          "reviewedDate": "2026-11-04"
+        },
+        {
+          "title": "Dubai Land Department — Frequently Asked Questions",
+          "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+          "reviewedDate": "2026-11-04"
+        }
+      ],
+      "quiz": [
+        {
+          "q": "What is the strongest capstone recommendation?",
+          "options": [
+            "The project paying the agent the best commission",
+            "A documented, suitability-led comparison with dated evidence, cash-flow scenarios and explicit uncertainty",
+            "Whichever unit has the most optimistic developer projection"
+          ],
+          "correct": 1,
+          "why": "Independent advisory quality is measured by documented reasoning and client suitability."
         }
       ]
     }
