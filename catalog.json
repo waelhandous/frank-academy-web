@@ -1,0 +1,2307 @@
+{
+  "schema": "frank-academy-v2-course-catalog/1",
+  "status": "curriculum-design-not-accredited",
+  "policy": {
+    "sourceReviewRequired": true,
+    "regulatoryStatementsMustHaveReviewedSource": true,
+    "aiCannotAwardCertificate": true,
+    "freeCourseId": "off-plan",
+    "paidAccess": "server-authoritative-entitlement-required",
+    "assessmentPassPercent": 85,
+    "identity": "existing-frank-member-id",
+    "certificate": "FRANK-issued completion credential only; never impersonate RERA/DLD/IREI accreditation",
+    "contentRule": "Do not fabricate current developer terms, prices, DLD rules or historical records. Use approved versioned sources with effective date."
+  },
+  "courses": [
+    {
+      "id": "off-plan",
+      "title": "The FRANK Standard: UAE Off-Plan Advisory Qualification",
+      "tier": "free",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "off-plan-01",
+          "title": "Legal foundations, broker responsibilities and client suitability",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-02",
+          "title": "Off-plan lifecycle: launch, allocation, booking, SPA, registration, construction and handover",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-03",
+          "title": "Master developer versus subdeveloper; ownership and project verification",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-04",
+          "title": "Escrow accounts, milestone payments and buyer protections",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-05",
+          "title": "Developer due diligence: track record, delays, contract and delivery risk",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-06",
+          "title": "Payment-plan mathematics: nominal price, present value and cash-flow timing",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-07",
+          "title": "Service charges, financing, liquidity and exit-risk scenarios",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-08",
+          "title": "Client discovery: budget, horizon, nationality and income needs",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-09",
+          "title": "Evidence-led comparisons using verified FRANK project data",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-10",
+          "title": "Reserving, document control, negotiations and SPA walkthrough",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-11",
+          "title": "Managing construction delays, cancellations and disclosure",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "off-plan-12",
+          "title": "Capstone: advise three buyer personas with a defensible comparative investment memo",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "secondary",
+      "title": "Secondary Market: Resale Advisory & Transaction Execution",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "secondary-01",
+          "title": "Ownership, title and tenure verification",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-02",
+          "title": "Listing mandate, agency forms and conflict management",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-03",
+          "title": "Comparable sales, valuation and negotiation ranges",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-04",
+          "title": "Seller mortgage and bank discharge",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-05",
+          "title": "Buyer financing, valuation shortfall and preapproval",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-06",
+          "title": "Offer drafting, deposit, conditions and transaction timeline",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-07",
+          "title": "NOC and developer clearance dependencies",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-08",
+          "title": "Transfer trustee, fees and ownership registration",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-09",
+          "title": "Vacant possession, tenancy and existing leases",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-10",
+          "title": "Seller and buyer KYC, AML and funds flow",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-11",
+          "title": "Dispute prevention, cancellation and evidence retention",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "secondary-12",
+          "title": "Capstone: end-to-end mortgaged resale with conditional offer",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "leasing",
+      "title": "Leasing & Property Management",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "leasing-01",
+          "title": "Landlord and tenant roles and authority",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-02",
+          "title": "Rental market evidence and achievable rents",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-03",
+          "title": "Marketing, viewings, applicant qualification and fair treatment",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-04",
+          "title": "Tenancy terms, permitted conditions and disclosure",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-05",
+          "title": "Ejari and required registration workflows",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-06",
+          "title": "Deposits, cheques, commission and receipts",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-07",
+          "title": "Handover inspection, inventory and maintenance obligations",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-08",
+          "title": "Renewal, notice, rent changes and source-backed guidance",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-09",
+          "title": "Early termination, default and dispute handling",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-10",
+          "title": "Short-term versus long-term leasing distinctions",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-11",
+          "title": "Property management operating procedures and reporting",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leasing-12",
+          "title": "Capstone: lease from listing through renewal with dispute scenario",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "documentation",
+      "title": "Deal Documentation, Ethics & Compliance",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "documentation-01",
+          "title": "Agency authority and representation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-02",
+          "title": "KYC, beneficial ownership and client identity",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-03",
+          "title": "AML red flags and escalation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-04",
+          "title": "Advertising and listing authorization",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-05",
+          "title": "Booking forms, reservation terms and receipts",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-06",
+          "title": "SPA clauses: scope, payment, delay and termination",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-07",
+          "title": "Forms A, B and F with rule version control",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-08",
+          "title": "Mortgage letters and no-objection certificates",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-09",
+          "title": "Fee transparency and commission disclosure",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-10",
+          "title": "Data privacy, retention and client confidentiality",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-11",
+          "title": "Audit trail, record integrity and handoff",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "documentation-12",
+          "title": "Capstone: identify 15 transaction risks in a redacted file",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "sales",
+      "title": "Real Estate Sales & Client Psychology",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "sales-01",
+          "title": "Professional discovery and client segmentation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-02",
+          "title": "Financial and emotional decision drivers",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-03",
+          "title": "Consultative presentation without artificial urgency",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-04",
+          "title": "Budget, financing and suitability qualification",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-05",
+          "title": "Objection classification and ethical responses",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-06",
+          "title": "Comparative storytelling with verified facts",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-07",
+          "title": "Negotiation and concession discipline",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-08",
+          "title": "Managing follow-up and client momentum",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-09",
+          "title": "WhatsApp, telephone and in-person communication",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-10",
+          "title": "Cross-cultural communication and inclusive service",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-11",
+          "title": "Closing, post-sale assurance and referrals",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "sales-12",
+          "title": "Capstone: live skeptical-buyer roleplay assessed by rubric",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "investment",
+      "title": "Property Investment Analysis",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "investment-01",
+          "title": "Investment thesis and client mandate",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-02",
+          "title": "Gross yield, net yield, cap rate and cash-on-cash return",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-03",
+          "title": "Acquisition and recurring cost model",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-04",
+          "title": "Mortgage leverage and repayment sensitivity",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-05",
+          "title": "Vacancy, service charges and maintenance sensitivity",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-06",
+          "title": "Capital appreciation versus realized returns",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-07",
+          "title": "Liquidity risk and exit costs",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-08",
+          "title": "Off-plan versus ready investment mathematics",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-09",
+          "title": "Comparable transactions, rents and market segmentation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-10",
+          "title": "Scenario analysis and downside stress testing",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-11",
+          "title": "Suitability and balanced risk disclosure",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "investment-12",
+          "title": "Capstone: produce an independently checkable investor recommendation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "intelligence",
+      "title": "FRANK Market Intelligence Practicum",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "intelligence-01",
+          "title": "Data provenance and evidence confidence",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-02",
+          "title": "Building identity and source reconciliation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-03",
+          "title": "Sales versus rentals versus service charges",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-04",
+          "title": "New rental contracts versus renewals",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-05",
+          "title": "Transaction mix: units, buildings and land",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-06",
+          "title": "Median versus mean, outliers and data limitations",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-07",
+          "title": "Yield calculation using matched building evidence",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-08",
+          "title": "Time series, seasonal effects and lag",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-09",
+          "title": "Supply pipeline and absorption proxies",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-10",
+          "title": "Area comparison without cherry-picking",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-11",
+          "title": "Presenting uncertainty to clients",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "intelligence-12",
+          "title": "Capstone: defend an evidence-backed area recommendation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "developer",
+      "title": "Developer & Project Due Diligence",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "developer-01",
+          "title": "Developer corporate and licensing identity",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-02",
+          "title": "Projects, phases, towers and unit identity",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-03",
+          "title": "Handover track record and delivery history",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-04",
+          "title": "Project registration and escrow checks",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-05",
+          "title": "Approvals, brochures and material authenticity",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-06",
+          "title": "Payment plan terms and promotion expiration",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-07",
+          "title": "Stock freshness and authorized sales contacts",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-08",
+          "title": "Risk signals and unsupported performance claims",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-09",
+          "title": "Project positioning by buyer suitability",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-10",
+          "title": "Handover, service charge and management assumptions",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-11",
+          "title": "Developer interview and question design",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "developer-12",
+          "title": "Capstone: reconcile a conflicting developer sales pack",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "digital",
+      "title": "AI & Digital Brokerage Operations",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "digital-01",
+          "title": "FRANK platform navigation and account hygiene",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-02",
+          "title": "FRANK Maps project discovery",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-03",
+          "title": "Building Intelligence evidence interpretation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-04",
+          "title": "CRM lead qualification and follow-up",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-05",
+          "title": "Client-facing packs and source attribution",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-06",
+          "title": "AI prompting for compliant customer messages",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-07",
+          "title": "Human-in-the-loop fact verification",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-08",
+          "title": "Privacy and safe handling of buyer information",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-09",
+          "title": "Digital deal submission and status tracking",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-10",
+          "title": "Commission wallet visibility and escalation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-11",
+          "title": "AI failure modes and hallucination detection",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "digital-12",
+          "title": "Capstone: full digital workflow from lead to qualified offer",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    },
+    {
+      "id": "leadership",
+      "title": "Brokerage Leadership & Independent Agent Growth",
+      "tier": "paid",
+      "estimatedLearningHours": 24,
+      "prerequisites": [],
+      "languageOptions": [
+        "en",
+        "ar"
+      ],
+      "instructionalModes": [
+        "reading",
+        "typed-dialogue",
+        "live-voice",
+        "scenario",
+        "calculation",
+        "document-review"
+      ],
+      "chapters": [
+        {
+          "id": "leadership-01",
+          "title": "Individual operating plan and unit economics",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-02",
+          "title": "Pipeline stages and disciplined forecasting",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-03",
+          "title": "Customer experience and retention",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-04",
+          "title": "Personal brand, credibility and referrals",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-05",
+          "title": "Hiring, mentoring and agent supervision",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-06",
+          "title": "Compliance by design and oversight",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-07",
+          "title": "Developer relationships and partnership ethics",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-08",
+          "title": "Channel performance measurement",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-09",
+          "title": "Commission structures and team economics",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-10",
+          "title": "Service recovery and escalation",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-11",
+          "title": "Governance, auditability and team quality",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        },
+        {
+          "id": "leadership-12",
+          "title": "Capstone: 90-day independent brokerage growth plan",
+          "minimumEngagement": [
+            "concepts",
+            "worked-example",
+            "guided-practice",
+            "retrieval-check",
+            "source-review"
+          ],
+          "assessment": [
+            "knowledge-check",
+            "scenario-question"
+          ],
+          "sourceStatus": "requires-review"
+        }
+      ],
+      "finalExam": {
+        "knowledgeQuestions": 30,
+        "scenarioQuestions": 5,
+        "practicalSimulation": true,
+        "passPercent": 85,
+        "allowedAttempts": "policy-controlled",
+        "humanReviewForHighStakes": true
+      },
+      "certificateEligibleAfter": [
+        "complete-required-chapters",
+        "pass-knowledge-exam",
+        "pass-scenario-exam",
+        "pass-practical",
+        "identity-check",
+        "server-side-issuance"
+      ]
+    }
+  ]
+}

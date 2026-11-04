@@ -1,0 +1,161 @@
+{
+  "id": "off-plan-06",
+  "title": "Payment-Plan Mathematics: Price Is Not the Same as Value",
+  "status": "draft-awaiting-expert-review",
+  "durationMinutes": 90,
+  "courseId": "off-plan",
+  "outcomes": [
+    "Calculate contractually scheduled cash flows from an approved price and payment milestone table.",
+    "Separate purchase price, acquisition costs, financed amounts, financing costs and carrying costs.",
+    "Compute discount-adjusted present value while clearly disclosing discount rate assumptions.",
+    "Explain that cashback, commission, post-handover schedules and rental projections are not equivalent to guaranteed returns.",
+    "Spot inconsistencies in a sales sheet and identify the documents needed before making a recommendation."
+  ],
+  "sourcePolicy": {
+    "requires": "developer-approved dated official payment plan, project-specific SPA terms and relevant current agency/regulator rules",
+    "currentSourceStatus": "not-attached-do-not-present-as-verified",
+    "simulatedExamples": true
+  },
+  "lesson": [
+    {
+      "section": "Opening client dilemma",
+      "instructor": "Two apartments appear to cost AED 1,500,000. Project A requires 70% before handover and 30% at handover. Project B requires 40% before handover, 20% at handover and 40% over two years after handover. Which is cheaper? Your first instinct may be B—but without contract dates, costs, financing and delivery risk, the schedules alone do not establish which project is better. Explain what information you need.",
+      "studentAction": "Typed discovery list; AI asks for missing assumptions",
+      "mastery": "Learner rejects unsupported cheaper/better conclusion"
+    },
+    {
+      "section": "Milestone arithmetic",
+      "instructor": "A project has an illustrative AED 1,500,000 list price. A 10/60/30 schedule implies AED 150,000 reservation/booking milestone, AED 900,000 across defined construction stages, and AED 450,000 at handover. The 60% construction tranche is not one payment unless the actual schedule says so.",
+      "workedExample": {
+        "purchasePriceAED": 1500000,
+        "percentages": [
+          10,
+          60,
+          30
+        ],
+        "amountsAED": [
+          150000,
+          900000,
+          450000
+        ]
+      },
+      "check": "Have the student calculate 5%, 15%, 20%, 20%, 40% milestones and validate they sum to 100%."
+    },
+    {
+      "section": "Cash-flow calendar",
+      "instructor": "Timing matters. Convert each milestone to a due date relative to booking; do not assume construction milestones occur on a predictable clock. Ask for the developer's actual contract dates or event triggers, estimated service charges, registration fees and any financing restrictions.",
+      "studentAction": "Build table with date, amount, trigger, source, confidence, risk"
+    },
+    {
+      "section": "Present-value comparison",
+      "instructor": "Discounting is an analytical lens—not proof of profit or a claim that the developer is financing the buyer. For each payment with time t in years, PV = payment / (1+r)^t. A selected r is an assumption and must be disclosed. Compare schedules only when project quality, risk and total costs are controlled.",
+      "workedExample": {
+        "assumedAnnualDiscountRate": 0.08,
+        "assumedDatesYears": [
+          0,
+          1,
+          2
+        ],
+        "amountsAED": [
+          150000,
+          900000,
+          450000
+        ],
+        "pvAEDApprox": 1369135.8024691357
+      },
+      "check": "Ask why a lower PV could be offset by completion delay, weaker resale liquidity or higher nominal price."
+    },
+    {
+      "section": "Total acquisition cost",
+      "instructor": "The advertised project price is not necessarily the full cash required. Model applicable registration charges, brokerage charges, valuation, mortgage arrangements, maintenance, service charges, insurance and vacancy. Confirm each exact cost against the current contract and official fee schedule instead of presenting typical rates as universal facts.",
+      "studentAction": "Classify each line item as confirmed, estimated, excluded or not applicable"
+    },
+    {
+      "section": "Investor cash flow",
+      "instructor": "Project-level rental expectations require verified comparable rents, realistic occupancy, fees, service charges, maintenance and mortgage payments. Gross rental yield = annual rent / property purchase price; net yield must use clearly defined net income and acquisition basis. Never equate optimistic marketing yield with expected or guaranteed return.",
+      "workedExample": {
+        "illustrativePriceAED": 1500000,
+        "annualRentAED": 105000,
+        "annualServiceChargeAED": 16000,
+        "maintenanceReserveAED": 5000,
+        "assumedVacancyCostAED": 6000,
+        "grossYieldPercent": 7,
+        "netOperatingIncomeAED": 78000,
+        "netYieldOnPurchasePricePercent": 5.2
+      }
+    },
+    {
+      "section": "Buyer suitability",
+      "instructor": "A retiree seeking near-term rental cash flow and an investor with patient capital should not receive the same recommendation. Ask about liquidity reserves, time horizon, currency exposure, financing constraints, mortgage preapproval, property management capacity and tolerance for delay.",
+      "studentAction": "Roleplay two conflicting buyer profiles"
+    },
+    {
+      "section": "Document challenge",
+      "instructor": "The promotional sales sheet says 'guaranteed 10% ROI', 'limited stock', and 'handover 2028'. Identify each phrase requiring independent evidence. A salesperson's message does not override signed project-specific terms. The AI must not validate unverified marketing material.",
+      "studentAction": "Mark each claim with verification source and escalation owner"
+    },
+    {
+      "section": "Professional recommendation",
+      "instructor": "Produce a client-ready comparison containing exact source dates, verified terms, known costs, uncertainty flags, alternative scenarios, and a balanced recommendation. If a term is missing, say it is missing—do not infer it.",
+      "studentAction": "Draft 250–400 word advisory note and defend it verbally"
+    },
+    {
+      "section": "Final practicum",
+      "instructor": "You are advising a buyer choosing between two hypothetical projects. Present cash-flow tables, a sensitivity comparison and a complete risk register. Correct any mistaken assumptions under questioning.",
+      "studentAction": "Timed 15-minute voice defense plus typed calculation submission"
+    }
+  ],
+  "assessment": {
+    "passingPercent": 85,
+    "rubric": [
+      {
+        "name": "Milestone and timing arithmetic",
+        "weight": 20,
+        "failCondition": "Incorrect payment totals or inability to reconcile 100%"
+      },
+      {
+        "name": "Source discipline",
+        "weight": 20,
+        "failCondition": "Invented contract terms or unverified project claims asserted as facts"
+      },
+      {
+        "name": "Total cost and financing",
+        "weight": 20,
+        "failCondition": "Omits material costs without disclosure"
+      },
+      {
+        "name": "Risk and suitability",
+        "weight": 20,
+        "failCondition": "Promises returns or fails to qualify investor needs"
+      },
+      {
+        "name": "Client communication",
+        "weight": 20,
+        "failCondition": "Misleading certainty or inability to explain tradeoffs"
+      }
+    ],
+    "practicalQuestions": [
+      {
+        "type": "calculation",
+        "prompt": "A hypothetical property costs AED 2,400,000 and has a 10/50/40 plan. Calculate each amount and show the total."
+      },
+      {
+        "type": "calculation",
+        "prompt": "A property costs AED 1,800,000. Illustrative gross annual rent AED 126,000; service charges AED 20,000; maintenance AED 5,000; vacancy reserve AED 8,000. Calculate gross yield and net yield on price; explain exclusions."
+      },
+      {
+        "type": "risk",
+        "prompt": "A developer sales rep provides an unsigned 2% discount with 'immediate confirmation required'. Explain your verification steps and professional response."
+      },
+      {
+        "type": "roleplay",
+        "prompt": "Buyer insists the lowest down payment must produce the highest ROI. Respectfully challenge the assumption with evidence and scenarios."
+      },
+      {
+        "type": "advisory",
+        "prompt": "Build an investment comparison with two hypothetical plans, cash-flow timeline, assumption register and decision conditions."
+      }
+    ]
+  },
+  "certificatePolicy": "Scores are for practicum review; only backend-authoritative exam records and integrity checks may issue FRANK course completion."
+}
